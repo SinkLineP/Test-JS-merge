@@ -1,0 +1,26 @@
+.block-posts {
+
+}
+
+.post-one {
+    width: 400px;
+    height: 120px;
+    padding: 10px 20px;
+    border: 1px solid lightgray;
+    margin-bottom: 30px;
+}
+
+.post-two {
+    width: 400px;
+    height: 120px;
+    padding: 10px 20px;
+    border: 1px solid lightgray;
+    margin-bottom: 30px;
+}
+
+.post-three {
+    width: 400px;
+    height: 120px;
+    padding: 10px 20px;
+    border: 1px solid lightgray;
+}
